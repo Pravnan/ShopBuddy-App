@@ -18,7 +18,7 @@
     "expo": "~49.0.15",
     "expo-status-bar": "~1.6.0",
     "firebase": "^10.7.1",
-    "lottie-react-native": "^6.4.1",
+    "lottie-react-native": "5.1.6",
     "react": "18.2.0",
     "react-dom": "^18.2.0",
     "react-native": "0.72.6",
@@ -27,13 +27,14 @@
     "react-native-camera-kit": "^13.0.0",
     "react-native-dialog": "^9.3.0",
     "react-native-drawer-layout": "^3.2.2",
-    "react-native-gesture-handler": "^2.14.0",
+    "react-native-gesture-handler": "~2.12.0",
     "react-native-modal": "^13.0.1",
     "react-native-qrcode-scanner": "^1.5.5",
-    "react-native-reanimated": "^3.6.1",
-    "react-native-screens": "^3.29.0",
+    "react-native-reanimated": "~3.3.0",
+    "react-native-screens": "~3.22.0",
     "react-native-vector-icons": "^10.0.3",
-    "react-native-web": "~0.19.6"
+    "react-native-web": "~0.19.6",
+    "expo-updates": "~0.18.18"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

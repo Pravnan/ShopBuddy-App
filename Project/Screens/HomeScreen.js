@@ -7,7 +7,7 @@ const HomeScreen = ({ navigation }) => {
   };
 
   const buttons = [
-    { screenName: 'ShoppingListsScreen', text: 'Shopping Lists', icon: require('../images/note.png') },
+    { screenName: 'ShoppingListsScreen', text: 'Shopping Lists', icon: require('../Images/note.png') },
     { screenName: 'FoodBlogScreen', text: 'Food Blog' , icon: require('../assets/barcode.png') },
     { screenName: 'StoreLocator', text: 'Store Locator' , icon: require('../assets/store.png')},
     { screenName: 'ContactUs', text: 'Contact Us' , icon: require('../assets/expense.png')},

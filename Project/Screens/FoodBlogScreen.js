@@ -12,7 +12,7 @@ const recipeData = [
     ingredients: ['Pasta', 'Tomato Sauce', 'Ground Beef', 'Onion', 'Garlic'],
     cookingTime: '30 minutes',
     serves: '4',
-    image: require('../images/spaghetti.jpg'), // Replace with the actual image path
+    image: require('../Images/spaghetti.jpg'), // Replace with the actual image path
   },
   {
     id: '2',
@@ -20,7 +20,7 @@ const recipeData = [
     ingredients: ['Chicken breasts', 'Lemon juice', 'Olive oil', 'Garlic', 'Fresh herbs (rosemary, thyme)', 'Salt and pepper to taste'],
     cookingTime: '20 minutes',
     serves: '2',
-    image: require('../images/Grilled Lemon Herb Chicken.jpg'), // Replace with the actual image path
+    image: require('../Images/Grilled Lemon Herb Chicken.jpg'), // Replace with the actual image path
   },
   {
     id: '3',
@@ -38,7 +38,7 @@ const recipeData = [
     ],
     cookingTime: '40 minutes',
     serves: '3',
-    image: require('../images/Vegetarian Spinach.jpg'), // Replace with the actual image path
+    image: require('../Images/Vegetarian Spinach.jpg'), // Replace with the actual image path
   },
 
   {
@@ -55,7 +55,7 @@ const recipeData = [
     ],
     cookingTime: '25 minutes',
     serves: '2',
-    image: require('../images/teriyaki salmon bowl.jpg'),
+    image: require('../Images/teriyaki salmon bowl.jpg'),
   },
 
   {
@@ -72,7 +72,7 @@ const recipeData = [
     ],
     cookingTime: '15 minutes',
     serves: '4',
-    image: require('../images/Mango Avocado Salad.jpg'),
+    image: require('../Images/Mango Avocado Salad.jpg'),
   },
 
   {
@@ -88,7 +88,7 @@ const recipeData = [
     ],
     cookingTime: '30 minutes',
     serves: '3',
-    image: require('../images/Pasta Primavera.jpg'),
+    image: require('../Images/Pasta Primavera.jpg'),
   },
 
   {
@@ -106,7 +106,7 @@ const recipeData = [
     ],
     cookingTime: '20 minutes',
     serves: '2',
-    image: require('../images/Chicken and Vegetable Stir-Fry.jpg'),
+    image: require('../Images/Chicken and Vegetable Stir-Fry.jpg'),
   },
 
   {
@@ -122,7 +122,7 @@ const recipeData = [
     ],
     cookingTime: '10 minutes',
     serves: '2',
-    image: require('../images/Caprese Salad.jpg'),
+    image: require('../Images/Caprese Salad.jpg'),
   },
 
   {
@@ -140,7 +140,7 @@ const recipeData = [
     ],
     cookingTime: '25 minutes',
     serves: '2',
-    image: require('../images/Shrimp Scampi Pasta.jpg'),
+    image: require('../Images/Shrimp Scampi Pasta.jpg'),
   },
 
   {
@@ -157,7 +157,7 @@ const recipeData = [
     ],
     cookingTime: '35 minutes',
     serves: '4',
-    image: require('../images/Vegetable Curry.jpg'),
+    image: require('../Images/Vegetable Curry.jpg'),
   },
 
   {
@@ -174,7 +174,7 @@ const recipeData = [
     ],
     cookingTime: '15 minutes',
     serves: '2',
-    image: require('../images/Lemon Blueberry Pancakes.jpg'),
+    image: require('../Images/Lemon Blueberry Pancakes.jpg'),
   },
 
   {
@@ -192,7 +192,7 @@ const recipeData = [
     ],
     cookingTime: '45 minutes',
     serves: '4',
-    image: require('../images/Ratatouille.jpg'),
+    image: require('../Images/Ratatouille.jpg'),
   },
 
 
